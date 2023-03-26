@@ -23,6 +23,11 @@ WEEK 4
 ![image](https://user-images.githubusercontent.com/104795331/223993508-fb974275-3fc4-4d2e-970b-1e1d4ebd3808.png)
 
 WEEK 5
+1st part
+![image](https://user-images.githubusercontent.com/104795331/227759368-73367edf-cc20-4685-9755-659b8cf15021.png)
+![image](https://user-images.githubusercontent.com/104795331/227759380-39469740-124a-4414-8159-867e572525d0.png)
+
+2nd part
 ![image](https://user-images.githubusercontent.com/104795331/223993818-0f29d556-9857-4487-b540-17a9ff3cc683.png)
 ![image](https://user-images.githubusercontent.com/104795331/223993950-c8e29bd0-ec47-44b1-98e5-a2f374b68f84.png)
 
